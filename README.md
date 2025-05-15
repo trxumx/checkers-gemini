@@ -11,4 +11,6 @@ Bad AI (I don't think it's gemeni thats answering on your moves)
 
 You can't properly see the ui from miniapp, actually u can't see pretty much anything from here (I used localhost:5173 for debugging, it's working pretty much properly)
 
+Dont forget to add .env file with tokens
+
 Я спать, я устал
